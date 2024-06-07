@@ -1,0 +1,2 @@
+$ composer create-project laravel/laravel laravel-app
+$ php artisan serve
